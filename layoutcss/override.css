@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+body {
+    background-color: #292C2F;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-dark {
+    color: #fff;
+    background-color: #292C2F;
+    border-color: #292C2F;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #FF7877;
+    border-color: #FF7877;
+}
+
+.btn {
+    border-radius: 0;
+}
